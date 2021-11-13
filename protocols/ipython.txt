@@ -1,0 +1,16 @@
+for model in root.iter('CategoryModel'):
+    print(model.tag)
+for model in root.iter('CategoryModel'):
+    print(model.attrib)
+for model in root.iter('CategoryModel'):
+    print(model.attrib['Name'])
+for model in root.iter('CategoryModel'):
+    print(model.attrib['Name'])
+    for lst in model.iter('ProtocolModel'):
+        print(lst.attrib['FileName'])
+for model in root.iter('CategoryModel'):
+    print(model.attrib['Name'])
+    for lst in model.iter('ProtocolModel'):
+        print(lst.attrib['FileName'])
+%hist
+%hist -n

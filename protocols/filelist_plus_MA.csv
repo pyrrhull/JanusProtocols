@@ -1,0 +1,90 @@
+Pooling,FlushSysLiq.MPT
+Pooling,5 X FlushSysLiq.MPT
+Pooling,sample pooling 100ul ROTATED FASTER INLINE.MPT
+Pooling,sample pooling 200ul ROTATED FASTER INLINE.MPT
+Pooling,sample pooling 200ul no Scanning ROTATED FASTER INLINE.MPT
+Analytik,FlushSysLiq.MPT
+Analytik,Chemagic Extraction PREP Vienna ROTATED.MPT
+Analytik,Chemagic_only Sample 300ul and lysis ROTATED.MPT
+Analytik,Chemagic_only NO SCANNING Sample 300ul and lysis ROTATED.MPT
+Analytik,Chemagic_only Sample 300ul and lysis ROTATED_low volume.MPT
+Analytik,Chemagic_only Sample 300ul and lysis no Scanning ROTATED_low volume.MPT
+Analytik,MGI_Sample preperation 180ul ROTATED.MPT
+Analytik,MGI_NO SCANNING Sample preperation 180ul ROTATED.MPT
+Analytik,MGI_LOW VOLUME Sample preperation 180ul_ROTATED.MPT
+Analytik,MGI_NO SCANNING LOW VOLUME Sample preperation 180ul_ROTATED.MPT
+Analytik,Qiagen_Sample 900ul Transfer ROTATED.MPT
+Analytik,Qiagen_NO SCANNING Sample 900ul Transfer ROTATED.MPT
+Analytik,2M 900ul Transfer ROTATED.MPT
+Mutationsanalytik,FlushSysLiq MUTATION ONLY.MPT
+Mutationsanalytik,hanging COVID-19 mutation from PCR into PCR.MPT
+Mutationsanalytik,Chemagic_only Sample 300ul and lysis ROTATED.MPT
+Mutationsanalytik,Chemagic_only Sample 300ul and lysis ROTATED_low volume.MPT
+Mutationsanalytik,MGI_Sample preperation 180ul ROTATED.MPT
+Mutationsanalytik,MGI_LOW VOLUME Sample preperation 180ul_ROTATED.MPT
+Mutationsanalytik,Check Labels and Transfer 800ul.MPT
+TEST_ROTATED,pooled sample only ROTATED.MPT
+TEST_ROTATED,Chemagic Extraction PREP Vienna ROTATED EMPTY DECK.MPT
+TEST_ROTATED,sample pooling 100ul ROTATED INLINE.MPT
+TEST_ROTATED,sample pooling 200ul ROTATED INLINE.MPT
+TEST_ROTATED,sample pooling 200ul no Scanning ROTATED INLINE.MPT
+TEST_ROTATED,sample pooling 100ul ROTATED RIGHT_2_LEFT_TIP-CHUTE.MPT
+TEST_ROTATED,sample pooling 100ul ROTATED RIGHT_2_LEFT_TIP-RACKS.MPT
+TEST_ROTATED,Check Labels and Transfer 800ul.MPT
+TEST_ROTATED,sample pooling 100ul ROTATED FASTER INLINE.MPT
+TEST_ROTATED,sample pooling 200ul ROTATED FASTER INLINE.MPT
+TEST_ROTATED,sample pooling 200ul no Scanning ROTATED FASTER INLINE.MPT
+TEST_ROTATED,TEST_Qiagen_Sample 1 x Mix 900ul Transfer ROTATED.MPT
+TEST_ROTATED,TEST_Qiagen_Sample 2 x Mix 900ul Transfer ROTATED.MPT
+TEST_ROTATED,TEST_Qiagen_NO SCANNING Sample 900ul Transfer ROTATED.MPT
+TEST_ROTATED,TEST_2M 900ul Transfer ROTATED.MPT
+TEST_NO SCAN WITH BACKUP AND EMPTY BC,TEST_Chemagic_only NO SCANNING Sample 300ul and lysis ROTATED.MPT
+TEST_NO SCAN WITH BACKUP AND EMPTY BC,TEST_MGI_NO SCANNING LOW VOLUME Sample preperation 180ul_ROTATED.MPT
+TEST_NO SCAN WITH BACKUP AND EMPTY BC,TEST_MGI_NO SCANNING Sample preperation 180ul ROTATED.MPT
+TEST_NO SCAN WITH BACKUP AND EMPTY BC,TEST_Qiagen_NO SCANNING Sample 900ul Transfer ROTATED.MPT
+POOLING_BACKUP,sample pooling 100ul ROTATED.MPT
+POOLING_BACKUP,sample pooling 200ul ROTATED.MPT
+POOLING_BACKUP,sample pooling 200ul no Scanning ROTATED.MPT
+ANALYTICS_BACKUP,Chemagic Extraction PREP Vienna _low volume.MPT
+ANALYTICS_BACKUP,Chemagic Extraction PREP Vienna_no samples.MPT
+ANALYTICS_BACKUP,Chemagic_only Sample 300ul and lysis.MPT
+ANALYTICS_BACKUP,hanging COVID-19 qPCR Vienna.MPT
+ANALYTICS_BACKUP,Chemagic Extraction PREP Vienna.MPT
+ANALYTICS_BACKUP,Chemagic_only Sample 300ul and lysis.MPT
+ANALYTICS_BACKUP,MGI_Sample preperation 180ul.MPT
+ANALYTICS_BACKUP,MGI_Sample preperation 180ul_low volume.MPT
+ANALYTICS_BACKUP,4x elut buff-POKA-mag beads_fast_75uL_Elution.MPT
+ANALYTICS_BACKUP,4x elut buff-POKA-mag beads_fast.MPT
+ANALYTICS_BACKUP,4x elut buffer only_75uL.MPT
+ANALYTICS_BACKUP,4x elut buffer only.MPT
+ANALYTICS_BACKUP,4x mag beads only.MPT
+ANALYTICS_BACKUP,4x POKA only.MPT
+ANALYTICS_BACKUP,add Lysis buffer to sample plate.MPT
+ANALYTICS_BACKUP,add POKA to sample plate.MPT
+ANALYTICS_BACKUP,only 1x mag beads.MPT
+ANALYTICS_BACKUP,add Elution buffer to sample plate.MPT
+ANALYTICS_BACKUP,FlushSysLiq.MPT
+ANALYTICS_BACKUP,pooled sample & Lysis buffer only ROTATED.MPT
+ANALYTICS_BACKUP,pooled sample only ROTATED.MPT
+ANALYTICS_BACKUP,pooled sample finish for extraction.MPT
+ANALYTICS_BACKUP,pooled sample & Lysis buffer only.MPT
+ANALYTICS_BACKUP,pooled sample only.MPT
+ANALYTICS_BACKUP,Chemagic Extraction PREP Vienna.MPT
+ANALYTICS_BACKUP,FlushSysLiq.MPT
+ANALYTICS_BACKUP,pooled sample finish for extraction ROTATED.MPT
+ANALYTICS_BACKUP,Mastermix PE.MPT
+ANALYTICS_BACKUP,Transfer Samples only.MPT
+ANALYTICS_BACKUP,FlushSysLiq.MPT
+ANALYTICS_BACKUP,4x elut buff-POKA-mag beads_fast_75uL_Elution.MPT
+ANALYTICS_BACKUP,4x elut buff-POKA-mag beads_fast.MPT
+ANALYTICS_BACKUP,4x elut buffer only_75uL.MPT
+ANALYTICS_BACKUP,4x elut buffer only.MPT
+ANALYTICS_BACKUP,4x mag beads only.MPT
+ANALYTICS_BACKUP,4x POKA only.MPT
+ANALYTICS_BACKUP,add Lysis buffer to sample plate.MPT
+ANALYTICS_BACKUP,add POKA to sample plate.MPT
+ANALYTICS_BACKUP,only 1x mag beads.MPT
+ANALYTICS_BACKUP,add Elution buffer to sample plate.MPT
+ANALYTICS_BACKUP,FlushSysLiq.MPT
+ANALYTICS_BACKUP,pooled sample & Lysis buffer only ROTATED.MPT
+ANALYTICS_BACKUP,pooled sample only ROTATED.MPT
