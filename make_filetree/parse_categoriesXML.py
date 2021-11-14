@@ -1,19 +1,16 @@
 import xml.etree.ElementTree as ET
 from pathlib import PureWindowsPath, Path
-from shutil import copyfile
+from shutil import copy2
 
 tree = ET.parse('../protocols/Categories_new.xml')
 root = tree.getroot()
 
-paths = []
-for category in root.findall("CategoryModel"):
-    destination = category.get("Name") 
-    Path(destination).mkdir(exist_ok=True)
-    for element in category.iter("ProtocolModel"):
-        protocolpath = element.get("FileName")
-        copyfile(protocolpath, destination)
-        # paths.append(protocolpath)
-purepaths = map(PureWindowsPath, paths)
+with open("categoriesxml2csv.csv", "w") as f:
+    for cat in root.findall("CategoryModel"):
+        category = cat.get("Name")
+        for element in cat.iter("ProtocolModel"):
+            fullpath = PureWindowsPath(element.get("FileName"))
+            f.write(f'{category},{str(fullpath)},{fullpath.name}\n')
 
 #with open("JAA_ProtocolFilePaths.txt", "w") as out:
 #    for i in sorted(purepaths):

@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ArrayOfCategoryModel xlmns:xsi="http://www.w3.org/2001/XMLSchema-instance" xlmns:xsd="http://www.w3.org/2001/XMLSchema">
+	<CategoryModel Name="Pooling">
+		<TreeView>true</TreeView>
+		<ProtocolList>
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\Pooling\FlushSysLiq.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\Pooling\5 X FlushSysLiq.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\Pooling\sample pooling 100ul ROTATED FASTER INLINE.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\Pooling\sample pooling 200ul ROTATED FASTER INLINE.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\Pooling\sample pooling 200ul no Scanning ROTATED FASTER INLINE.MPT" Description="" LastRunDate="" />
+		</ProtocolList>
+	</CategoryModel>
+	<CategoryModel Name="Analytik">
+		<TreeView>true</TreeView>
+		<ProtocolList>
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\Analytik\FlushSysLiq.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\Analytik\Chemagic Extraction PREP Vienna ROTATED.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\Analytik\Chemagic_only Sample 300ul and lysis ROTATED.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\Analytik\Chemagic_only NO SCANNING Sample 300ul and lysis ROTATED.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\Analytik\Chemagic_only Sample 300ul and lysis ROTATED_low volume.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\Analytik\Chemagic_only Sample 300ul and lysis no Scanning ROTATED_low volume.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\Analytik\MGI_Sample preperation 180ul ROTATED.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\Analytik\MGI_NO SCANNING Sample preperation 180ul ROTATED.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\Analytik\MGI_LOW VOLUME Sample preperation 180ul_ROTATED.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\Analytik\MGI_NO SCANNING LOW VOLUME Sample preperation 180ul_ROTATED.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\Analytik\Qiagen_Sample 900ul Transfer ROTATED.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\Analytik\Qiagen_NO SCANNING Sample 900ul Transfer ROTATED.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\Analytik\2M 900ul Transfer ROTATED.MPT" Description="" LastRunDate="" />
+		</ProtocolList>
+	</CategoryModel>
+	<CategoryModel Name="Mutationsanalytik">
+		<TreeView>true</TreeView>
+		<ProtocolList>
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\Mutationsanalytik\FlushSysLiq MUTATION ONLY.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\Mutationsanalytik\hanging COVID-19 mutation from PCR into PCR.MPT" Description="" LastRunDate="" />
+		</ProtocolList>
+	</CategoryModel>
+	<CategoryModel Name="TEST_ROTATED">
+		<TreeView>true</TreeView>
+		<ProtocolList>
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\TEST_ROTATED\pooled sample only ROTATED.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\TEST_ROTATED\Chemagic Extraction PREP Vienna ROTATED EMPTY DECK.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\TEST_ROTATED\sample pooling 100ul ROTATED INLINE.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\TEST_ROTATED\sample pooling 200ul ROTATED INLINE.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\TEST_ROTATED\sample pooling 200ul no Scanning ROTATED INLINE.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\TEST_ROTATED\sample pooling 100ul ROTATED RIGHT_2_LEFT_TIP-CHUTE.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\TEST_ROTATED\sample pooling 100ul ROTATED RIGHT_2_LEFT_TIP-RACKS.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\TEST_ROTATED\Check Labels and Transfer 800ul.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\TEST_ROTATED\sample pooling 100ul ROTATED FASTER INLINE.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\TEST_ROTATED\sample pooling 200ul ROTATED FASTER INLINE.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\TEST_ROTATED\sample pooling 200ul no Scanning ROTATED FASTER INLINE.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\TEST_ROTATED\TEST_Qiagen_Sample 1 x Mix 900ul Transfer ROTATED.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\TEST_ROTATED\TEST_Qiagen_Sample 2 x Mix 900ul Transfer ROTATED.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\TEST_ROTATED\TEST_Qiagen_NO SCANNING Sample 900ul Transfer ROTATED.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\TEST_ROTATED\TEST_2M 900ul Transfer ROTATED.MPT" Description="" LastRunDate="" />
+		</ProtocolList>
+	</CategoryModel>
+	<CategoryModel Name="TEST_NO SCAN WITH BACKUP AND EMPTY BC">
+		<TreeView>true</TreeView>
+		<ProtocolList>
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\TEST_NO SCAN WITH BACKUP AND EMPTY BC\TEST_Chemagic_only NO SCANNING Sample 300ul and lysis ROTATED.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\TEST_NO SCAN WITH BACKUP AND EMPTY BC\TEST_MGI_NO SCANNING LOW VOLUME Sample preperation 180ul_ROTATED.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\TEST_NO SCAN WITH BACKUP AND EMPTY BC\TEST_MGI_NO SCANNING Sample preperation 180ul ROTATED.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\TEST_NO SCAN WITH BACKUP AND EMPTY BC\TEST_Qiagen_NO SCANNING Sample 900ul Transfer ROTATED.MPT" Description="" LastRunDate="" />
+		</ProtocolList>
+	</CategoryModel>
+	<CategoryModel Name="POOLING_BACKUP">
+		<TreeView>true</TreeView>
+		<ProtocolList>
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\POOLING_BACKUP\sample pooling 100ul ROTATED.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\POOLING_BACKUP\sample pooling 200ul ROTATED.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\POOLING_BACKUP\sample pooling 200ul no Scanning ROTATED.MPT" Description="" LastRunDate="" />
+		</ProtocolList>
+	</CategoryModel>
+	<CategoryModel Name="ANALYTICS_BACKUP">
+		<TreeView>true</TreeView>
+		<ProtocolList>
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_BACKUP\Chemagic Extraction PREP Vienna _low volume.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_BACKUP\Chemagic Extraction PREP Vienna_no samples.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_BACKUP\Chemagic_only Sample 300ul and lysis.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_BACKUP\hanging COVID-19 qPCR Vienna.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_BACKUP\Chemagic Extraction PREP Vienna.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_BACKUP\Chemagic_only Sample 300ul and lysis.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_BACKUP\MGI_Sample preperation 180ul.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_BACKUP\MGI_Sample preperation 180ul_low volume.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_BACKUP\4x elut buff-POKA-mag beads_fast_75uL_Elution.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_BACKUP\4x elut buff-POKA-mag beads_fast.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_BACKUP\4x elut buffer only_75uL.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_BACKUP\4x elut buffer only.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_BACKUP\4x mag beads only.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_BACKUP\4x POKA only.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_BACKUP\add Lysis buffer to sample plate.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_BACKUP\add POKA to sample plate.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_BACKUP\only 1x mag beads.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_BACKUP\add Elution buffer to sample plate.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_BACKUP\FlushSysLiq.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_BACKUP\pooled sample &amp; Lysis buffer only ROTATED.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_BACKUP\pooled sample only ROTATED.MPT" Description="" LastRunDate="" />
+		</ProtocolList>
+	</CategoryModel>
+	<CategoryModel Name="ANALYTICS_1.0G_BACKUP">
+		<TreeView>true</TreeView>
+		<ProtocolList>
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_1.0G_BACKUP\pooled sample finish for extraction.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_1.0G_BACKUP\pooled sample &amp; Lysis buffer only.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_1.0G_BACKUP\pooled sample only.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_1.0G_BACKUP\Chemagic Extraction PREP Vienna.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_1.0G_BACKUP\FlushSysLiq.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_1.0G_BACKUP\pooled sample finish for extraction ROTATED.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_1.0G_BACKUP\Mastermix PE.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_1.0G_BACKUP\Transfer Samples only.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_1.0G_BACKUP\FlushSysLiq.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_1.0G_BACKUP\4x elut buff-POKA-mag beads_fast_75uL_Elution.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_1.0G_BACKUP\4x elut buff-POKA-mag beads_fast.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_1.0G_BACKUP\4x elut buffer only_75uL.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_1.0G_BACKUP\4x elut buffer only.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_1.0G_BACKUP\4x mag beads only.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_1.0G_BACKUP\4x POKA only.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_1.0G_BACKUP\add Lysis buffer to sample plate.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_1.0G_BACKUP\add POKA to sample plate.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_1.0G_BACKUP\only 1x mag beads.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_1.0G_BACKUP\add Elution buffer to sample plate.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_1.0G_BACKUP\FlushSysLiq.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_1.0G_BACKUP\pooled sample &amp; Lysis buffer only ROTATED.MPT" Description="" LastRunDate="" />
+			<ProtocolModel ID="" FileName="C:\Packard\Janus\Protocols\ANALYTICS_1.0G_BACKUP\pooled sample only ROTATED.MPT" Description="" LastRunDate="" />
+		</ProtocolList>
+	</CategoryModel>
+</ArrayOfCategoryModel>
