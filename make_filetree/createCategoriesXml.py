@@ -10,36 +10,40 @@ attr_qname = ET.QName("http://www.w3.org/2001/XMLSchema", "xsd")
 
 nsmap = {'xsi': "http://www.w3.org/2001/XMLSchema-instance"}
 
-Protocol = namedtuple("Protocol", "name path")
+Protocol = namedtuple("Protocol", "new_folder category old_path protocol")
 protocols = defaultdict(list)
 
-with open("categoriesxml2csv.csv") as f:
+
+with open("../Liste_protokolle_test.csv") as f:
+    header = f.readline()
     for line in f.readlines():
-        abteilung, fullpath, name = line.strip().split(',')
-        p = Protocol(Path(name), Path(fullpath))
-        protocols[abteilung].append(p.name)
-        (janusdir / "Protocols" / Path(abteilung)).mkdir(exist_ok=True)  # create Folder foreach Abteilung or Category
+        new_folder,category, old_path, protocol = line.strip().split(',')
+        p = Protocol(Path(new_folder), category, Path(old_path), protocol)
+        protocols[category].append(p)
+        (janusdir / "Protocols_new" / Path(category)).mkdir(exist_ok=True, parents=True)  # create Folder foreach Abteilung or Category
 
 root = ET.Element('ArrayOfCategoryModel', {"xlmns:xsi": "http://www.w3.org/2001/XMLSchema-instance", "xlmns:xsd": "http://www.w3.org/2001/XMLSchema"})
-for cat in protocols.keys():
-    destinationdir = janusdir / "Protocols_new" / cat
-    category = ET.SubElement(root, 'CategoryModel', Name=cat)
-    treeview = ET.SubElement(category, "TreeView")
+for category in protocols.keys():
+    destinationdir = janusdir / "Protocols_new" / category
+    categorymodel = ET.SubElement(root, 'CategoryModel', Name=category)
+    treeview = ET.SubElement(categorymodel, "TreeView")
     treeview.text = "true"
-    protocollist = ET.SubElement(category, "ProtocolList")
-    for p in protocols[cat]:
+    protocollist = ET.SubElement(categorymodel, "ProtocolList")
+    for p in protocols[category]:
         #copy protocol to new folder
-        file = list(janusdir.rglob(p.name))
+        file = list(janusdir.rglob(p.protocol))
         if len(file) > 1:
             print(f"Duplicates found for, {p}, {list(file)}")
-        copy2(file[0], destinationdir)
-        protocolmodel = ET.SubElement(protocollist,
-                                      "ProtocolModel",
-                                      ID='',
-                                      FileName=str(destinationdir / p.name),
-                                      Description="",
-                                      LastRunDate='')
-
+        try:
+            copy2(file[0], destinationdir)
+            protocolmodel = ET.SubElement(protocollist,
+                                          "ProtocolModel",
+                                          ID='',
+                                          FileName=str(destinationdir / p.protocol),
+                                          Description="",
+                                          LastRunDate='')
+        except IndexError:
+            print(p.protocol, " not found")
 
 tree = ET.ElementTree(root)
 ET.indent(tree, space='\t', level=0)

@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\Liste_protokolle_2021_11_14.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\make_filetree\categoriesxml2csv.csv">
           <value>
             <Attribute>
@@ -18,13 +25,6 @@
           </value>
         </entry>
         <entry key="\protocols\archive\filelist.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\protocols\filelist_plus_MA.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

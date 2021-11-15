@@ -1,98 +1,98 @@
-abteilung,path,protocol
-TEST_ROTATED,C:\Packard\Janus\Protocols\TEST_ROTATED\pooled sample only ROTATED.MPT,pooled sample only ROTATED.MPT
-TEST_ROTATED,C:\Packard\Janus\Protocols\TEST_ROTATED\Chemagic Extraction PREP Vienna ROTATED EMPTY DECK.MPT,Chemagic Extraction PREP Vienna ROTATED EMPTY DECK.MPT
-TEST_ROTATED,C:\Packard\Janus\Protocols\TEST_ROTATED\sample pooling 100ul ROTATED INLINE.MPT,sample pooling 100ul ROTATED INLINE.MPT
-TEST_ROTATED,C:\Packard\Janus\Protocols\TEST_ROTATED\sample pooling 200ul ROTATED INLINE.MPT,sample pooling 200ul ROTATED INLINE.MPT
-TEST_ROTATED,C:\Packard\Janus\Protocols\TEST_ROTATED\sample pooling 200ul no Scanning ROTATED INLINE.MPT,sample pooling 200ul no Scanning ROTATED INLINE.MPT
-TEST_ROTATED,C:\Packard\Janus\Protocols\TEST_ROTATED\sample pooling 100ul ROTATED RIGHT_2_LEFT_TIP-CHUTE.MPT,sample pooling 100ul ROTATED RIGHT_2_LEFT_TIP-CHUTE.MPT
-TEST_ROTATED,C:\Packard\Janus\Protocols\TEST_ROTATED\sample pooling 100ul ROTATED RIGHT_2_LEFT_TIP-RACKS.MPT,sample pooling 100ul ROTATED RIGHT_2_LEFT_TIP-RACKS.MPT
-TEST_ROTATED,C:\Packard\Janus\Protocols\TEST_ROTATED\Check Labels and Transfer 800ul.MPT,Check Labels and Transfer 800ul.MPT
-TEST_ROTATED,C:\Packard\Janus\Protocols\TEST_ROTATED\sample pooling 100ul ROTATED FASTER INLINE.MPT,sample pooling 100ul ROTATED FASTER INLINE.MPT
-TEST_ROTATED,C:\Packard\Janus\Protocols\TEST_ROTATED\sample pooling 200ul ROTATED FASTER INLINE.MPT,sample pooling 200ul ROTATED FASTER INLINE.MPT
-TEST_ROTATED,C:\Packard\Janus\Protocols\TEST_ROTATED\sample pooling 200ul no Scanning ROTATED FASTER INLINE.MPT,sample pooling 200ul no Scanning ROTATED FASTER INLINE.MPT
-TEST_ROTATED,C:\Packard\Janus\Protocols\TEST_ROTATED\TEST_Qiagen_Sample 1 x Mix 900ul Transfer ROTATED.MPT,TEST_Qiagen_Sample 1 x Mix 900ul Transfer ROTATED.MPT
-TEST_ROTATED,C:\Packard\Janus\Protocols\TEST_ROTATED\TEST_Qiagen_Sample 2 x Mix 900ul Transfer ROTATED.MPT,TEST_Qiagen_Sample 2 x Mix 900ul Transfer ROTATED.MPT
-TEST_ROTATED,C:\Packard\Janus\Protocols\TEST_ROTATED\TEST_Qiagen_NO SCANNING Sample 900ul Transfer ROTATED.MPT,TEST_Qiagen_NO SCANNING Sample 900ul Transfer ROTATED.MPT
-TEST_ROTATED,C:\Packard\Janus\Protocols\TEST_ROTATED\TEST_2M 900ul Transfer ROTATED.MPT,TEST_2M 900ul Transfer ROTATED.MPT
-TEST_NO SCAN WITH BACKUP AND EMPTY BC,C:\Packard\Janus\Protocols\TEST_NO SCAN WITH BC BACKUP\TEST_Chemagic_only NO SCANNING Sample 300ul and lysis ROTATED.MPT,TEST_Chemagic_only NO SCANNING Sample 300ul and lysis ROTATED.MPT
-TEST_NO SCAN WITH BACKUP AND EMPTY BC,C:\Packard\Janus\Protocols\TEST_NO SCAN WITH BC BACKUP\TEST_MGI_NO SCANNING LOW VOLUME Sample preperation 180ul_ROTATED.MPT,TEST_MGI_NO SCANNING LOW VOLUME Sample preperation 180ul_ROTATED.MPT
-TEST_NO SCAN WITH BACKUP AND EMPTY BC,C:\Packard\Janus\Protocols\TEST_NO SCAN WITH BC BACKUP\TEST_MGI_NO SCANNING Sample preperation 180ul ROTATED.MPT,TEST_MGI_NO SCANNING Sample preperation 180ul ROTATED.MPT
-TEST_NO SCAN WITH BACKUP AND EMPTY BC,C:\Packard\Janus\Protocols\TEST_NO SCAN WITH BC BACKUP\TEST_Qiagen_NO SCANNING Sample 900ul Transfer ROTATED.MPT,TEST_Qiagen_NO SCANNING Sample 900ul Transfer ROTATED.MPT
-POOLING_BACKUP,C:\Packard\Janus\Protocols\Floor 2\pooling\sample pooling 100ul ROTATED.MPT,sample pooling 100ul ROTATED.MPT
-POOLING_BACKUP,C:\Packard\Janus\Protocols\Floor 2\pooling\sample pooling 200ul ROTATED.MPT,sample pooling 200ul ROTATED.MPT
-POOLING_BACKUP,C:\Packard\Janus\Protocols\Floor 2\pooling\sample pooling 200ul no Scanning ROTATED.MPT,sample pooling 200ul no Scanning ROTATED.MPT
-Pooling,C:\Packard\Janus\Protocols\Flush Wash\FlushSysLiq.MPT,FlushSysLiq.MPT
-Pooling,C:\Packard\Janus\Protocols\Flush Wash\5 X FlushSysLiq.MPT,5 X FlushSysLiq.MPT
-Pooling,C:\Packard\Janus\Protocols\Floor 2\pooling\sample pooling 100ul ROTATED FASTER INLINE.MPT,sample pooling 100ul ROTATED FASTER INLINE.MPT
-Pooling,C:\Packard\Janus\Protocols\Floor 2\pooling\sample pooling 200ul ROTATED FASTER INLINE.MPT,sample pooling 200ul ROTATED FASTER INLINE.MPT
-Pooling,C:\Packard\Janus\Protocols\Floor 2\pooling\sample pooling 200ul no Scanning ROTATED FASTER INLINE.MPT,sample pooling 200ul no Scanning ROTATED FASTER INLINE.MPT
-Mutationsanalytik,C:\Packard\Janus\Protocols\Flush Wash\FlushSysLiq MUTATION ONLY.MPT,FlushSysLiq MUTATION ONLY.MPT
-Mutationsanalytik,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\hanging COVID-19 mutation from PCR into PCR.MPT,hanging COVID-19 mutation from PCR into PCR.MPT
-Mutationsanalytik,C:\Packard\JANUS\Floor 0\Protocols\AnalytikEG\Chemagic_only Sample 300ul and lysis ROTATED.MPT,Chemagic_only Sample 300ul and lysis ROTATED.MPT
-Mutationsanalytik,C:\Packard\JANUS\Floor 0\Protocols\AnalytikEG\Chemagic_only Sample 300ul and lysis ROTATED_low volume.MPT',Chemagic_only Sample 300ul and lysis ROTATED_low volume.MPT
-Mutationsanalytik, C:\Packard\JANUS\Floor 0\Protocols\AnalytikEG\MGI_Sample preperation 180ul ROTATED.MPT',MGI_Sample preperation 180ul ROTATED.MPT
-Mutationsanalytik,C:\Packard\JANUS\Floor 0\Protocols\AnalytikEG\MGI_LOW VOLUME Sample preperation 180ul_ROTATED.MPT',MGI_LOW VOLUME Sample preperation 180ul_ROTATED.MPT
-Mutationsanalytik,C:\Packard\JANUS\Protocols\Current_structure\TEST_ROTATED\Check Labels and Transfer 800ul.MPT',Check Labels and Transfer 800ul.MPT 
-Analytik_NO_CSV ,,Chemagic_NO CSV only Sample 300ul and lysis ROTATED_low volume.MPT
-Analytik_NO_CSV ,,MGI_NO CSV Sample preperation 180ul ROTATED.MPT
-Analytik_NO_CSV ,,MGI_NO CSV LOW VOLUME Sample preperation 180ul_ROTATED.MPT
-Analytik_NO_CSV ,,Qiagen_NO CSV Sample 900ul Transfer ROTATED.MPT
-Analytik_NO_CSV ,,2M_NO CSV  900ul Transfer ROTATED.MPT
-Analytik_NO_CSV,,Chemagic_NO CSV only Sample 300ul and lysis ROTATED.MPT
-Analytik_Backup,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\Chemagic Extraction PREP Vienna ROTATED.MPT,Chemagic Extraction PREP Vienna ROTATED.MPT
-Analytik_Backup,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\Chemagic_only NO SCANNING Sample 300ul and lysis ROTATED.MPT,Chemagic_only NO SCANNING Sample 300ul and lysis ROTATED.MPT
-Analytik_Backup,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\Chemagic_only Sample 300ul and lysis no Scanning ROTATED_low volume.MPT,Chemagic_only Sample 300ul and lysis no Scanning ROTATED_low volume.MPT
-Analytik_Backup,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\MGI_NO SCANNING Sample preperation 180ul ROTATED.MPT,MGI_NO SCANNING Sample preperation 180ul ROTATED.MPT
-Analytik_Backup,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\MGI_NO SCANNING LOW VOLUME Sample preperation 180ul_ROTATED.MPT,MGI_NO SCANNING LOW VOLUME Sample preperation 180ul_ROTATED.MPT
-Analytik_Backup,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\Qiagen_NO SCANNING Sample 900ul Transfer ROTATED.MPT,Qiagen_NO SCANNING Sample 900ul Transfer ROTATED.MPT
-Analytik,C:\Packard\Janus\Protocols\Flush Wash\FlushSysLiq.MPT,FlushSysLiq.MPT
-Analytik,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\Chemagic_only Sample 300ul and lysis ROTATED.MPT,Chemagic_only Sample 300ul and lysis ROTATED.MPT
-Analytik,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\Chemagic_only Sample 300ul and lysis ROTATED_low volume.MPT,Chemagic_only Sample 300ul and lysis ROTATED_low volume.MPT
-Analytik,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\MGI_Sample preperation 180ul ROTATED.MPT,MGI_Sample preperation 180ul ROTATED.MPT
-Analytik,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\MGI_LOW VOLUME Sample preperation 180ul_ROTATED.MPT,MGI_LOW VOLUME Sample preperation 180ul_ROTATED.MPT
-Analytik,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\Qiagen_Sample 900ul Transfer ROTATED.MPT,Qiagen_Sample 900ul Transfer ROTATED.MPT
-Analytik,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\2M 900ul Transfer ROTATED.MPT,2M 900ul Transfer ROTATED.MPT
-Analytik,,pooled sample & Lysis buffer only_ROTATED.MPT
-ANALYTICS_BACKUP,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\Chemagic Extraction PREP Vienna _low volume.MPT,Chemagic Extraction PREP Vienna _low volume.MPT
-ANALYTICS_BACKUP,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\Chemagic Extraction PREP Vienna_no samples.MPT,Chemagic Extraction PREP Vienna_no samples.MPT
-ANALYTICS_BACKUP,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\Chemagic_only Sample 300ul and lysis.MPT,Chemagic_only Sample 300ul and lysis.MPT
-ANALYTICS_BACKUP,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\hanging COVID-19 qPCR Vienna.MPT,hanging COVID-19 qPCR Vienna.MPT
-ANALYTICS_BACKUP,C:\Packard\Janus\Floor 0\Protocols\ANALYTIK_EG_BACKUP\Chemagic Extraction PREP Vienna.MPT,Chemagic Extraction PREP Vienna.MPT
-ANALYTICS_BACKUP,C:\Packard\Janus\Floor 0\Protocols\ANALYTIK_EG_BACKUP\Chemagic_only Sample 300ul and lysis.MPT,Chemagic_only Sample 300ul and lysis.MPT
-ANALYTICS_BACKUP,C:\Packard\Janus\Floor 0\Protocols\ANALYTIK_EG_BACKUP\MGI_Sample preperation 180ul.MPT,MGI_Sample preperation 180ul.MPT
-ANALYTICS_BACKUP,C:\Packard\Janus\Floor 0\Protocols\ANALYTIK_EG_BACKUP\MGI_Sample preperation 180ul_low volume.MPT,MGI_Sample preperation 180ul_low volume.MPT
-ANALYTICS_BACKUP,C:\Packard\Janus\Floor 1\Protocols\Exotic\4x elut buff-POKA-mag beads_fast_75uL_Elution.MPT,4x elut buff-POKA-mag beads_fast_75uL_Elution.MPT
-ANALYTICS_BACKUP,C:\Packard\Janus\protocols\Floor 1\Exotic\4x elut buff-POKA-mag beads_fast.MPT,4x elut buff-POKA-mag beads_fast.MPT
-ANALYTICS_BACKUP,C:\Packard\Janus\Floor 1\Protocols\Exotic\4x elut buffer only_75uL.MPT,4x elut buffer only_75uL.MPT
-ANALYTICS_BACKUP,C:\Packard\Janus\protocols\Floor 1\Exotic\4x elut buffer only.MPT,4x elut buffer only.MPT
-ANALYTICS_BACKUP,C:\Packard\Janus\protocols\Floor 1\Exotic\4x mag beads only.MPT,4x mag beads only.MPT
-ANALYTICS_BACKUP,C:\Packard\Janus\protocols\Floor 1\Exotic\4x POKA only.MPT,4x POKA only.MPT
-ANALYTICS_BACKUP,C:\Packard\Janus\protocols\Floor 1\Exotic\add Lysis buffer to sample plate.MPT,add Lysis buffer to sample plate.MPT
-ANALYTICS_BACKUP,C:\Packard\Janus\protocols\Floor 1\Exotic\add POKA to sample plate.MPT,add POKA to sample plate.MPT
-ANALYTICS_BACKUP,C:\Packard\Janus\protocols\Floor 1\Exotic\only 1x mag beads.MPT,only 1x mag beads.MPT
-ANALYTICS_BACKUP,C:\Packard\Janus\protocols\Floor 1\Exotic\add Elution buffer to sample plate.MPT,add Elution buffer to sample plate.MPT
-ANALYTICS_BACKUP,C:\Packard\Janus\Protocols\Flush Wash\FlushSysLiq.MPT,FlushSysLiq.MPT
-ANALYTICS_BACKUP,C:\Packard\Janus\Protocols\Floor 1\Exotic\pooled sample & Lysis buffer only ROTATED.MPT,pooled sample & Lysis buffer only ROTATED.MPT
-ANALYTICS_BACKUP,C:\Packard\Janus\Protocols\Floor 1\Exotic\pooled sample only ROTATED.MPT,pooled sample only ROTATED.MPT
-ANALYTICS_1.0G_BACKUP,C:\Packard\Janus\Protocols\ANALYTIK_1.0G_BACKUP\pooled sample finish for extraction.MPT,pooled sample finish for extraction.MPT
-ANALYTICS_1.0G_BACKUP,C:\Packard\Janus\Protocols\ANALYTIK_1.0G_BACKUP\pooled sample & Lysis buffer only.MPT,pooled sample & Lysis buffer only.MPT
-ANALYTICS_1.0G_BACKUP,C:\Packard\Janus\Protocols\ANALYTIK_1.0G_BACKUP\pooled sample only.MPT,pooled sample only.MPT
-ANALYTICS_1.0G_BACKUP,C:\Packard\Janus\protocols\Floor 1\extraction\Chemagic Extraction PREP Vienna.MPT,Chemagic Extraction PREP Vienna.MPT
-ANALYTICS_1.0G_BACKUP,C:\Packard\Janus\Protocols\Flush Wash\FlushSysLiq.MPT,FlushSysLiq.MPT
-ANALYTICS_1.0G_BACKUP,C:\Packard\Janus\Protocols\Floor 1\extraction\pooled sample finish for extraction ROTATED.MPT,pooled sample finish for extraction ROTATED.MPT
-ANALYTICS_1.0G_BACKUP,C:\Packard\Janus\protocols\Floor 1\mastermix\Mastermix PE.MPT,Mastermix PE.MPT
-ANALYTICS_1.0G_BACKUP,C:\Packard\Janus\Floor 1\Protocols\mastermix\Transfer Samples only.MPT,Transfer Samples only.MPT
-ANALYTICS_1.0G_BACKUP,C:\Packard\Janus\Protocols\Flush Wash\FlushSysLiq.MPT,FlushSysLiq.MPT
-ANALYTICS_1.0G_BACKUP,C:\Packard\Janus\Floor 1\Protocols\Exotic\4x elut buff-POKA-mag beads_fast_75uL_Elution.MPT,4x elut buff-POKA-mag beads_fast_75uL_Elution.MPT
-ANALYTICS_1.0G_BACKUP,C:\Packard\Janus\protocols\Floor 1\Exotic\4x elut buff-POKA-mag beads_fast.MPT,4x elut buff-POKA-mag beads_fast.MPT
-ANALYTICS_1.0G_BACKUP,C:\Packard\Janus\Floor 1\Protocols\Exotic\4x elut buffer only_75uL.MPT,4x elut buffer only_75uL.MPT
-ANALYTICS_1.0G_BACKUP,C:\Packard\Janus\protocols\Floor 1\Exotic\4x elut buffer only.MPT,4x elut buffer only.MPT
-ANALYTICS_1.0G_BACKUP,C:\Packard\Janus\protocols\Floor 1\Exotic\4x mag beads only.MPT,4x mag beads only.MPT
-ANALYTICS_1.0G_BACKUP,C:\Packard\Janus\protocols\Floor 1\Exotic\4x POKA only.MPT,4x POKA only.MPT
-ANALYTICS_1.0G_BACKUP,C:\Packard\Janus\protocols\Floor 1\Exotic\add Lysis buffer to sample plate.MPT,add Lysis buffer to sample plate.MPT
-ANALYTICS_1.0G_BACKUP,C:\Packard\Janus\protocols\Floor 1\Exotic\add POKA to sample plate.MPT,add POKA to sample plate.MPT
-ANALYTICS_1.0G_BACKUP,C:\Packard\Janus\protocols\Floor 1\Exotic\only 1x mag beads.MPT,only 1x mag beads.MPT
-ANALYTICS_1.0G_BACKUP,C:\Packard\Janus\protocols\Floor 1\Exotic\add Elution buffer to sample plate.MPT,add Elution buffer to sample plate.MPT
-ANALYTICS_1.0G_BACKUP,C:\Packard\Janus\Protocols\Flush Wash\FlushSysLiq.MPT,FlushSysLiq.MPT
-ANALYTICS_1.0G_BACKUP,C:\Packard\Janus\Protocols\Floor 1\Exotic\pooled sample & Lysis buffer only ROTATED.MPT,pooled sample & Lysis buffer only ROTATED.MPT
-ANALYTICS_1.0G_BACKUP,C:\Packard\Janus\Protocols\Floor 1\Exotic\pooled sample only ROTATED.MPT,pooled sample only ROTATED.MPT
+new_folder,category,old_path,protocol
+Test,Test_Rotated,C:\Packard\Janus\Protocols\TEST_ROTATED\pooled sample only ROTATED.MPT,pooled sample only ROTATED.MPT
+Test,Test_Rotated,C:\Packard\Janus\Protocols\TEST_ROTATED\Chemagic Extraction PREP Vienna ROTATED EMPTY DECK.MPT,Chemagic Extraction PREP Vienna ROTATED EMPTY DECK.MPT
+Test,Test_Rotated,C:\Packard\Janus\Protocols\TEST_ROTATED\sample pooling 100ul ROTATED INLINE.MPT,sample pooling 100ul ROTATED INLINE.MPT
+Test,Test_Rotated,C:\Packard\Janus\Protocols\TEST_ROTATED\sample pooling 200ul ROTATED INLINE.MPT,sample pooling 200ul ROTATED INLINE.MPT
+Test,Test_Rotated,C:\Packard\Janus\Protocols\TEST_ROTATED\sample pooling 200ul no Scanning ROTATED INLINE.MPT,sample pooling 200ul no Scanning ROTATED INLINE.MPT
+Test,Test_Rotated,C:\Packard\Janus\Protocols\TEST_ROTATED\sample pooling 100ul ROTATED RIGHT_2_LEFT_TIP-CHUTE.MPT,sample pooling 100ul ROTATED RIGHT_2_LEFT_TIP-CHUTE.MPT
+Test,Test_Rotated,C:\Packard\Janus\Protocols\TEST_ROTATED\sample pooling 100ul ROTATED RIGHT_2_LEFT_TIP-RACKS.MPT,sample pooling 100ul ROTATED RIGHT_2_LEFT_TIP-RACKS.MPT
+Test,Test_Rotated,C:\Packard\Janus\Protocols\TEST_ROTATED\Check Labels and Transfer 800ul.MPT,Check Labels and Transfer 800ul.MPT
+Test,Test_Rotated,C:\Packard\Janus\Protocols\TEST_ROTATED\sample pooling 100ul ROTATED FASTER INLINE.MPT,sample pooling 100ul ROTATED FASTER INLINE.MPT
+Test,Test_Rotated,C:\Packard\Janus\Protocols\TEST_ROTATED\sample pooling 200ul ROTATED FASTER INLINE.MPT,sample pooling 200ul ROTATED FASTER INLINE.MPT
+Test,Test_Rotated,C:\Packard\Janus\Protocols\TEST_ROTATED\sample pooling 200ul no Scanning ROTATED FASTER INLINE.MPT,sample pooling 200ul no Scanning ROTATED FASTER INLINE.MPT
+Test,Test_Rotated,C:\Packard\Janus\Protocols\TEST_ROTATED\TEST_Qiagen_Sample 1 x Mix 900ul Transfer ROTATED.MPT,TEST_Qiagen_Sample 1 x Mix 900ul Transfer ROTATED.MPT
+Test,Test_Rotated,C:\Packard\Janus\Protocols\TEST_ROTATED\TEST_Qiagen_Sample 2 x Mix 900ul Transfer ROTATED.MPT,TEST_Qiagen_Sample 2 x Mix 900ul Transfer ROTATED.MPT
+Test,Test_Rotated,C:\Packard\Janus\Protocols\TEST_ROTATED\TEST_Qiagen_NO SCANNING Sample 900ul Transfer ROTATED.MPT,TEST_Qiagen_NO SCANNING Sample 900ul Transfer ROTATED.MPT
+Test,Test_Rotated,C:\Packard\Janus\Protocols\TEST_ROTATED\TEST_2M 900ul Transfer ROTATED.MPT,TEST_2M 900ul Transfer ROTATED.MPT
+Test,TEST_NO SCAN WITH BACKUP AND EMPTY BC,C:\Packard\Janus\Protocols\TEST_NO SCAN WITH BC BACKUP\TEST_Chemagic_only NO SCANNING Sample 300ul and lysis ROTATED.MPT,TEST_Chemagic_only NO SCANNING Sample 300ul and lysis ROTATED.MPT
+Test,TEST_NO SCAN WITH BACKUP AND EMPTY BC,C:\Packard\Janus\Protocols\TEST_NO SCAN WITH BC BACKUP\TEST_MGI_NO SCANNING LOW VOLUME Sample preperation 180ul_ROTATED.MPT,TEST_MGI_NO SCANNING LOW VOLUME Sample preperation 180ul_ROTATED.MPT
+Test,TEST_NO SCAN WITH BACKUP AND EMPTY BC,C:\Packard\Janus\Protocols\TEST_NO SCAN WITH BC BACKUP\TEST_MGI_NO SCANNING Sample preperation 180ul ROTATED.MPT,TEST_MGI_NO SCANNING Sample preperation 180ul ROTATED.MPT
+Test,TEST_NO SCAN WITH BACKUP AND EMPTY BC,C:\Packard\Janus\Protocols\TEST_NO SCAN WITH BC BACKUP\TEST_Qiagen_NO SCANNING Sample 900ul Transfer ROTATED.MPT,TEST_Qiagen_NO SCANNING Sample 900ul Transfer ROTATED.MPT
+Pooling_Backup,Pooling_Backup,C:\Packard\Janus\Protocols\Floor 2\pooling\sample pooling 100ul ROTATED.MPT,sample pooling 100ul ROTATED.MPT
+Pooling_Backup,Pooling_Backup,C:\Packard\Janus\Protocols\Floor 2\pooling\sample pooling 200ul ROTATED.MPT,sample pooling 200ul ROTATED.MPT
+Pooling_Backup,Pooling_Backup,C:\Packard\Janus\Protocols\Floor 2\pooling\sample pooling 200ul no Scanning ROTATED.MPT,sample pooling 200ul no Scanning ROTATED.MPT
+Pooling,Pooling,C:\Packard\Janus\Protocols\Flush Wash\FlushSysLiq.MPT,FlushSysLiq.MPT
+Pooling,Pooling,C:\Packard\Janus\Protocols\Flush Wash\5 X FlushSysLiq.MPT,5 X FlushSysLiq.MPT
+Pooling,Pooling,C:\Packard\Janus\Protocols\Floor 2\pooling\sample pooling 100ul ROTATED FASTER INLINE.MPT,sample pooling 100ul ROTATED FASTER INLINE.MPT
+Pooling,Pooling,C:\Packard\Janus\Protocols\Floor 2\pooling\sample pooling 200ul ROTATED FASTER INLINE.MPT,sample pooling 200ul ROTATED FASTER INLINE.MPT
+Pooling,Pooling,C:\Packard\Janus\Protocols\Floor 2\pooling\sample pooling 200ul no Scanning ROTATED FASTER INLINE.MPT,sample pooling 200ul no Scanning ROTATED FASTER INLINE.MPT
+Mutationsanalytik,Mutationsanalytik,C:\Packard\Janus\Protocols\Flush Wash\FlushSysLiq MUTATION ONLY.MPT,FlushSysLiq MUTATION ONLY.MPT
+Mutationsanalytik,Mutationsanalytik,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\hanging COVID-19 mutation from PCR into PCR.MPT,hanging COVID-19 mutation from PCR into PCR.MPT
+Mutationsanalytik,Mutationsanalytik,C:\Packard\JANUS\Floor 0\Protocols\AnalytikEG\Chemagic_only Sample 300ul and lysis ROTATED.MPT,Chemagic_only Sample 300ul and lysis ROTATED.MPT
+Mutationsanalytik,Mutationsanalytik,C:\Packard\JANUS\Floor 0\Protocols\AnalytikEG\Chemagic_only Sample 300ul and lysis ROTATED_low volume.MPT',Chemagic_only Sample 300ul and lysis ROTATED_low volume.MPT
+Mutationsanalytik,Mutationsanalytik, C:\Packard\JANUS\Floor 0\Protocols\AnalytikEG\MGI_Sample preperation 180ul ROTATED.MPT',MGI_Sample preperation 180ul ROTATED.MPT
+Mutationsanalytik,Mutationsanalytik,C:\Packard\JANUS\Floor 0\Protocols\AnalytikEG\MGI_LOW VOLUME Sample preperation 180ul_ROTATED.MPT',MGI_LOW VOLUME Sample preperation 180ul_ROTATED.MPT
+Mutationsanalytik,Mutationsanalytik,C:\Packard\JANUS\Protocols\Current_structure\TEST_ROTATED\Check Labels and Transfer 800ul.MPT',Check Labels and Transfer 800ul.MPT 
+Analytik,Analytik_NO_CSV ,,Chemagic_NO CSV only Sample 300ul and lysis ROTATED_low volume.MPT
+Analytik,Analytik_NO_CSV ,,MGI_NO CSV Sample preperation 180ul ROTATED.MPT
+Analytik,Analytik_NO_CSV ,,MGI_NO CSV LOW VOLUME Sample preperation 180ul_ROTATED.MPT
+Analytik,Analytik_NO_CSV ,,Qiagen_NO CSV Sample 900ul Transfer ROTATED.MPT
+Analytik,Analytik_NO_CSV ,,2M_NO CSV  900ul Transfer ROTATED.MPT
+Analytik,Analytik_NO_CSV,,Chemagic_NO CSV only Sample 300ul and lysis ROTATED.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\Chemagic Extraction PREP Vienna ROTATED.MPT,Chemagic Extraction PREP Vienna ROTATED.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\Chemagic_only NO SCANNING Sample 300ul and lysis ROTATED.MPT,Chemagic_only NO SCANNING Sample 300ul and lysis ROTATED.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\Chemagic_only Sample 300ul and lysis no Scanning ROTATED_low volume.MPT,Chemagic_only Sample 300ul and lysis no Scanning ROTATED_low volume.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\MGI_NO SCANNING Sample preperation 180ul ROTATED.MPT,MGI_NO SCANNING Sample preperation 180ul ROTATED.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\MGI_NO SCANNING LOW VOLUME Sample preperation 180ul_ROTATED.MPT,MGI_NO SCANNING LOW VOLUME Sample preperation 180ul_ROTATED.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\Qiagen_NO SCANNING Sample 900ul Transfer ROTATED.MPT,Qiagen_NO SCANNING Sample 900ul Transfer ROTATED.MPT
+Analytik,Analytik,C:\Packard\Janus\Protocols\Flush Wash\FlushSysLiq.MPT,FlushSysLiq.MPT
+Analytik,Analytik,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\Chemagic_only Sample 300ul and lysis ROTATED.MPT,Chemagic_only Sample 300ul and lysis ROTATED.MPT
+Analytik,Analytik,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\Chemagic_only Sample 300ul and lysis ROTATED_low volume.MPT,Chemagic_only Sample 300ul and lysis ROTATED_low volume.MPT
+Analytik,Analytik,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\MGI_Sample preperation 180ul ROTATED.MPT,MGI_Sample preperation 180ul ROTATED.MPT
+Analytik,Analytik,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\MGI_LOW VOLUME Sample preperation 180ul_ROTATED.MPT,MGI_LOW VOLUME Sample preperation 180ul_ROTATED.MPT
+Analytik,Analytik,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\Qiagen_Sample 900ul Transfer ROTATED.MPT,Qiagen_Sample 900ul Transfer ROTATED.MPT
+Analytik,Analytik,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\2M 900ul Transfer ROTATED.MPT,2M 900ul Transfer ROTATED.MPT
+Analytik,Analytik,,pooled sample & Lysis buffer only_ROTATED.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\Chemagic Extraction PREP Vienna _low volume.MPT,Chemagic Extraction PREP Vienna _low volume.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\Chemagic Extraction PREP Vienna_no samples.MPT,Chemagic Extraction PREP Vienna_no samples.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\Chemagic_only Sample 300ul and lysis.MPT,Chemagic_only Sample 300ul and lysis.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Floor 0\Protocols\AnalytikEG\hanging COVID-19 qPCR Vienna.MPT,hanging COVID-19 qPCR Vienna.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Floor 0\Protocols\ANALYTIK_EG_BACKUP\Chemagic Extraction PREP Vienna.MPT,Chemagic Extraction PREP Vienna.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Floor 0\Protocols\ANALYTIK_EG_BACKUP\Chemagic_only Sample 300ul and lysis.MPT,Chemagic_only Sample 300ul and lysis.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Floor 0\Protocols\ANALYTIK_EG_BACKUP\MGI_Sample preperation 180ul.MPT,MGI_Sample preperation 180ul.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Floor 0\Protocols\ANALYTIK_EG_BACKUP\MGI_Sample preperation 180ul_low volume.MPT,MGI_Sample preperation 180ul_low volume.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Floor 1\Protocols\Exotic\4x elut buff-POKA-mag beads_fast_75uL_Elution.MPT,4x elut buff-POKA-mag beads_fast_75uL_Elution.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\protocols\Floor 1\Exotic\4x elut buff-POKA-mag beads_fast.MPT,4x elut buff-POKA-mag beads_fast.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Floor 1\Protocols\Exotic\4x elut buffer only_75uL.MPT,4x elut buffer only_75uL.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\protocols\Floor 1\Exotic\4x elut buffer only.MPT,4x elut buffer only.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\protocols\Floor 1\Exotic\4x mag beads only.MPT,4x mag beads only.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\protocols\Floor 1\Exotic\4x POKA only.MPT,4x POKA only.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\protocols\Floor 1\Exotic\add Lysis buffer to sample plate.MPT,add Lysis buffer to sample plate.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\protocols\Floor 1\Exotic\add POKA to sample plate.MPT,add POKA to sample plate.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\protocols\Floor 1\Exotic\only 1x mag beads.MPT,only 1x mag beads.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\protocols\Floor 1\Exotic\add Elution buffer to sample plate.MPT,add Elution buffer to sample plate.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Protocols\Flush Wash\FlushSysLiq.MPT,FlushSysLiq.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Protocols\Floor 1\Exotic\pooled sample & Lysis buffer only ROTATED.MPT,pooled sample & Lysis buffer only ROTATED.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Protocols\Floor 1\Exotic\pooled sample only ROTATED.MPT,pooled sample only ROTATED.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Protocols\ANALYTIK_1.0G_BACKUP\pooled sample finish for extraction.MPT,pooled sample finish for extraction.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Protocols\ANALYTIK_1.0G_BACKUP\pooled sample & Lysis buffer only.MPT,pooled sample & Lysis buffer only.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Protocols\ANALYTIK_1.0G_BACKUP\pooled sample only.MPT,pooled sample only.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\protocols\Floor 1\extraction\Chemagic Extraction PREP Vienna.MPT,Chemagic Extraction PREP Vienna.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Protocols\Flush Wash\FlushSysLiq.MPT,FlushSysLiq.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Protocols\Floor 1\extraction\pooled sample finish for extraction ROTATED.MPT,pooled sample finish for extraction ROTATED.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\protocols\Floor 1\mastermix\Mastermix PE.MPT,Mastermix PE.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Floor 1\Protocols\mastermix\Transfer Samples only.MPT,Transfer Samples only.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Protocols\Flush Wash\FlushSysLiq.MPT,FlushSysLiq.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Floor 1\Protocols\Exotic\4x elut buff-POKA-mag beads_fast_75uL_Elution.MPT,4x elut buff-POKA-mag beads_fast_75uL_Elution.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\protocols\Floor 1\Exotic\4x elut buff-POKA-mag beads_fast.MPT,4x elut buff-POKA-mag beads_fast.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Floor 1\Protocols\Exotic\4x elut buffer only_75uL.MPT,4x elut buffer only_75uL.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\protocols\Floor 1\Exotic\4x elut buffer only.MPT,4x elut buffer only.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\protocols\Floor 1\Exotic\4x mag beads only.MPT,4x mag beads only.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\protocols\Floor 1\Exotic\4x POKA only.MPT,4x POKA only.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\protocols\Floor 1\Exotic\add Lysis buffer to sample plate.MPT,add Lysis buffer to sample plate.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\protocols\Floor 1\Exotic\add POKA to sample plate.MPT,add POKA to sample plate.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\protocols\Floor 1\Exotic\only 1x mag beads.MPT,only 1x mag beads.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\protocols\Floor 1\Exotic\add Elution buffer to sample plate.MPT,add Elution buffer to sample plate.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Protocols\Flush Wash\FlushSysLiq.MPT,FlushSysLiq.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Protocols\Floor 1\Exotic\pooled sample & Lysis buffer only ROTATED.MPT,pooled sample & Lysis buffer only ROTATED.MPT
+Analytik_Backup,Analytik_Backup,C:\Packard\Janus\Protocols\Floor 1\Exotic\pooled sample only ROTATED.MPT,pooled sample only ROTATED.MPT
