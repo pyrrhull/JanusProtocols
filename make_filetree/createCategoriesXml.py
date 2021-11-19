@@ -10,41 +10,53 @@ attr_qname = ET.QName("http://www.w3.org/2001/XMLSchema", "xsd")
 
 nsmap = {'xsi': "http://www.w3.org/2001/XMLSchema-instance"}
 
-Protocol = namedtuple("Protocol", "new_folder category old_path protocol")
-protocols = defaultdict(list)
+Protocol = namedtuple("Protocol", "new_folder category old_path protocol description")
+protocols = defaultdict(list) # dict[category] = [Protocol, Protocol,....]
+categories_order = ['Analytik',
+                    'Analytik_NO_CSV',
+                    'Mutationsanalytik',
+                    'Pooling',
+                    'Pooling Low Volume',
+                    'Pooling Replacement',
+                    'TeamGuM',
+                    'Analytik_Backup',
+                    'Pooling_Backup',
+                    'TEST_NO SCAN WITH BACKUP AND EMPTY BC',
+                    'TEST_ROTATED',
+                    ]
 
-
-with open("../Liste_protokolle_test.csv") as f:
+with open("Categories_edited.csv") as f:
     header = f.readline()
     for line in f.readlines():
-        new_folder,category, old_path, protocol = line.strip().split(',')
-        p = Protocol(Path(new_folder), category, Path(old_path), protocol)
+        new_folder, category, old_path, protocol, description, used = line.strip().split('\t')
+        p = Protocol(Path(new_folder), category, Path(old_path), protocol, description)
         protocols[category].append(p)
-        (janusdir / "Protocols_new" / Path(category)).mkdir(exist_ok=True, parents=True)  # create Folder foreach Abteilung or Category
+        (janusdir / "Protocols_new" / Path(new_folder)).mkdir(exist_ok=True, parents=True)  # create Folder foreach Abteilung or Category
 
-root = ET.Element('ArrayOfCategoryModel', {"xlmns:xsi": "http://www.w3.org/2001/XMLSchema-instance", "xlmns:xsd": "http://www.w3.org/2001/XMLSchema"})
-for category in protocols.keys():
-    destinationdir = janusdir / "Protocols_new" / category
+root = ET.Element('ArrayOfCategoryModel', {"xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance", "xmlns:xsd": "http://www.w3.org/2001/XMLSchema"})
+for category in categories_order:
     categorymodel = ET.SubElement(root, 'CategoryModel', Name=category)
     treeview = ET.SubElement(categorymodel, "TreeView")
     treeview.text = "true"
     protocollist = ET.SubElement(categorymodel, "ProtocolList")
     for p in protocols[category]:
         #copy protocol to new folder
+        destinationdir = janusdir / "Protocols_new" / p.new_folder
         file = list(janusdir.rglob(p.protocol))
         if len(file) > 1:
-            print(f"Duplicates found for, {p}, {list(file)}")
+            print(f"Duplicates found for {p.protocol} => {[str(x) for x in list(file)]}")
         try:
             copy2(file[0], destinationdir)
             protocolmodel = ET.SubElement(protocollist,
                                           "ProtocolModel",
                                           ID='',
                                           FileName=str(destinationdir / p.protocol),
-                                          Description="",
-                                          LastRunDate='')
+                                          Description=p.description,
+                                          LastRunDate='0001-01-01T00:00:00')
         except IndexError:
             print(p.protocol, " not found")
-
+showtreeview = ET.SubElement(root, "ShowTreeView")
+showtreeview.text = "True"
 tree = ET.ElementTree(root)
 ET.indent(tree, space='\t', level=0)
-tree.write('newCategories.xml', xml_declaration=True, encoding="utf-8")
+tree.write('Categories_new.xml', xml_declaration=True, encoding="utf-8")
